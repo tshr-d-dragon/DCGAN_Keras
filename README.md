@@ -7,15 +7,15 @@ This is an implementation of DCGAN on [CelebA](https://mmlab.ie.cuhk.edu.hk/proj
 
 ### Model Summary
 #### Generator
-![generator](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/trainnig_visual.gif)
+![](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/generator.png)
 
 #### Discriminator
-![discriminator](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/trainnig_visual.gif)
+![](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/discriminator.png)
 
 #### GAN
-![gan](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/trainnig_visual.gif)
+![](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/gan.png)
 
 
 ### Results
-![results](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/trainnig_visual.gif)
+![](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/trainnig_visual.gif)
 
