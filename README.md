@@ -10,15 +10,19 @@ This is an implementation of DCGAN on [CelebA](https://mmlab.ie.cuhk.edu.hk/proj
 Model architecture for Generator, Discriminator, and GAN:
 
 ### Generator
+
 ![generator](./generator.png)
 
 ### Discriminator
+
 ![discriminator](./discriminator.png)
 
 ### GAN
+
 ![](./gan.png)
 
 
 ## Results
+
 ![trainnig_visual](./trainnig_visual.gif)
 
