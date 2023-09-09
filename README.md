@@ -11,18 +11,18 @@ Model architecture for Generator, Discriminator, and GAN:
 
 ### Generator
 
-![generator](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/generator.png)
+![generator image](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/generator.png)
 
 ### Discriminator
 
-![discriminator](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/discriminator.png)
+![discriminator image](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/discriminator.png)
 
 ### GAN
 
-![](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/gan.png)
+![gan image](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/gan.png)
 
 
 ## Results
 
-![trainnig_visual](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/trainnig_visual.gif)
+![trainnig_visual image](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/trainnig_visual.gif)
 
