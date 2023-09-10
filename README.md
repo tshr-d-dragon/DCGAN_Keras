@@ -23,7 +23,7 @@ Model architecture for Generator, Discriminator, and GAN:
 
 
 ## Results
+For weights, refer to [this](https://drive.google.com/drive/folders/10cM4uK1TLRYYEbH08ogWcp9XJVzBEzMO?usp=sharing).
 
-![trainnig_visual image](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/trainnig_visual.gif)
+![trainnig_visual](https://github.com/tshr-d-dragon/DCGAN_Keras/blob/main/trainnig_visual.gif)
 
-For weights and other results, refer [this](https://drive.google.com/drive/folders/10cM4uK1TLRYYEbH08ogWcp9XJVzBEzMO?usp=sharing).
